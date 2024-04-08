@@ -1,4 +1,4 @@
-# GUIAS_INTROPROGRA-2024
+# GUIAS_EJERCICIOS_INTROPROGRA-2024
 
 Soluciones a todas las guias y ejercicios dados por el docente Victor Valenzuela INACAP, Temuco.
 
