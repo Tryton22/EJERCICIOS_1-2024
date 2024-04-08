@@ -1,3 +1,0 @@
-Enunciado guía 1.
-
-Desarrollar 11 ejercicios en python y pseint, entregados en una guía con todos los pasos a seguir.
