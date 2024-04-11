@@ -1,11 +1,9 @@
 """ Ejercicio 15: 
-Hacer un algoritmo que tome el peso en kilos de una cantidad de ropa a lavar en una lavadora
-y nos devuelva el nivel dependiendo del peso. Se sabe que con más de 30 kilos la lavadora no
-funcionara, ya que es demasiado peso. Si la ropa pesa 22 ó más kilos, el nivel será de máximo;
-si pesa 15 ó más, el nivel será de alto; si pesa 8 ó más será un nivel medio o de lo contrario el
-nivel será mínimo (Note que cada caso es mutuamente exclusivo y que la cantidad de ropa a
-lavar sólo puede dar como resultado un solo nivel de carga, además de que la definición es
-imprecisa a propósito). """
+Se trata de leer el valor de 3 longitudes y determinar si con ellas se forma geométricamente
+un triangulo, determinando de que tipo: equilátero (si tiene tres lados iguales), isósceles (si
+tiene dos lados iguales) o escaleno (si tiene tres lados desiguales). Considere que para formar
+un triángulo se requiere que: "el lado mayor sea menor que la suma de los otros dos lados", lo
+primero que se tiene que verificar e indicar en el programa. """
 
 print("\nIngrese 3 valores para formar un triangulo.")
 print('Recuerde: "el lado mayor es menor a la suma de los otros lados"')
