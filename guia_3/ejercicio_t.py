@@ -11,17 +11,18 @@ Alto: 5
 *        * 
 **********        """
 
-print("\nSolicitar un numero de 5 digitos por teclado y verificar si tiene 5 digitos de verdad.")
-print("------------------------------------------------------------------------------------------\n")
-bandera = 0
+print("\nCrear un contorno de rectangulo con numeros pares mayores a 4")
+print("---------------------------------------------------------------\n")
 
-while bandera < 2:
-    numero_5 = int(input("Ingrese un numero de 5 digitos: "))
-    if (numero_5 > 9999 and numero_5 < 100000) or (numero_5 < -9999 and numero_5 > -100000):
-        print("\nEl numero ingresado si tiene los 5 digitos y el numero es:", numero_5,"\n")
-        bandera = 2
-    elif bandera == 0:
-        print("\nDebe ingresar un numero de 5 digitos, intente nuevamente\n")
-        bandera = 1
-    else:
-        print("\nIntente nuevamente\n")
+ancho = int(input("Ingrese el ancho del rectángulo (debe ser un número par mayor a 4): "))
+alto = int(input("Ingrese el alto del rectángulo (debe ser un número par mayor a 4): "))
+
+if ancho % 2 != 0 or alto % 2 != 0 or ancho <= 4 or alto <= 4:
+    print("\nError: El ancho y el alto deben ser números pares mayores a 4.\n")
+else:
+    print("\nEl contorno resultante queda así:\n")
+    for i in range(alto):
+        if i == 0 or i == alto - 1:
+            print("*" * ancho)
+        else:
+            print("*" + " " * (ancho - 2) + "*")

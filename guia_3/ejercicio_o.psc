@@ -2,7 +2,7 @@ Proceso Ejercicio_15
 	
 	Escribir " "
 	
-	Escribir "Secuencia de multiplación en un rango con una diferencia de 20"
+	Escribir "Secuencia de multiplaciï¿½n en un rango con una diferencia de 20"
 	Escribir "---------------------------------------------------------------"
 	
 	Escribir " "
@@ -30,5 +30,4 @@ Proceso Ejercicio_15
 		Escribir "Siga las instrucciones, por favor."
 		Escribir " "
 	FinSi
-	
 FinProceso

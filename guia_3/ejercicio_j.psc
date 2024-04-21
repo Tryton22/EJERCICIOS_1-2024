@@ -19,5 +19,4 @@ Proceso Ejercicio_10
 	
 	Escribir "El MCD entre 48 y 60 es: ", mcd
 	Escribir " "
-	
 FinProceso

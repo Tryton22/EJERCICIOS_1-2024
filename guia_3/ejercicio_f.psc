@@ -27,5 +27,4 @@ Proceso Ejercicio_6
 	Escribir " "
 	Escribir "Entre 10 y 100 existen ", primos," numeros primos"
 	Escribir " "
-	
 FinProceso

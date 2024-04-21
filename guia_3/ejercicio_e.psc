@@ -26,5 +26,4 @@ Proceso Ejercicio_5
 	Escribir " "
 	Escribir "El promedio de los numeros ingresados es: ", trunc(suma / promedio)
 	Escribir " "
-	
 FinProceso

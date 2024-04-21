@@ -15,5 +15,4 @@ Proceso Ejercicio_1
 			n <- n + 1
 		FinSi
 	Fin Para
-	
 FinProceso

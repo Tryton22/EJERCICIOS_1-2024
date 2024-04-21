@@ -23,5 +23,4 @@ Proceso Ejercicio_4
 	
 	Escribir "La suma de los numeros ingresados es: ", suma
 	Escribir " "
-	
 FinProceso

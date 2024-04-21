@@ -29,5 +29,4 @@ Proceso Ejercicio_8
 	
 	Escribir "La sumatoria del rango ingresado es: ", suma
 	Escribir " "
-	
 FinProceso

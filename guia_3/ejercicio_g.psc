@@ -15,5 +15,4 @@ Proceso Ejercicio_7
 	
 	Escribir "La sumatoria entre el rango 1-300 es: ", suma
 	Escribir " "
-	
 FinProceso

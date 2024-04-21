@@ -27,7 +27,6 @@ Proceso Ejercicio_11
 	Fin Mientras
 	
 	Escribir "El numero mas grande de los ingresados es: ", mayor
-	Escribir "El numero mas pequeño de los ingresados es ", menor
+	Escribir "El numero mas pequeï¿½o de los ingresados es ", menor
 	Escribir " "
-	
 FinProceso

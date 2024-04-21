@@ -34,5 +34,4 @@ Proceso Ejercicio_9
 		Escribir "Ingrese solo numeros positivos, por favor"
 		Escribir " "
 	FinSi
-	
 FinProceso
